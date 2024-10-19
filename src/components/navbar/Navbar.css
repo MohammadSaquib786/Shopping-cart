@@ -1,0 +1,16 @@
+.Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #00FFFF;
+    color: white;
+    padding: 20px;
+    font-size: 1.4rem;
+}
+.cart-detail{
+   
+    margin-left: 10px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}

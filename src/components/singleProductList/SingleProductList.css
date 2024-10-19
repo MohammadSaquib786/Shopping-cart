@@ -1,0 +1,25 @@
+.SingleProductList {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+.productimage {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.productInfo {
+    padding: 20px;
+}
+
+.cardInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 2rem;
+}
+
+.cart-button {
+    cursor: pointer;
+}
